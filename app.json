@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Exchange",
+    "slug": "exchange-app",
+    "sdkVersion": "25.0.0",
+    "privacy": "unlisted",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.tatsushitoji.exchangerate"
+    },
+    "android": {
+      "package": "com.tatsushitoji.exchangerate"
+    }
+  }
+}
